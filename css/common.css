@@ -1,0 +1,9 @@
+@charset "utf-8";
+@import url(//db.onlinewebfonts.com/c/5fd740bac1abfb826fb7e35ae963efc9?family=ABChanel+Corpo+Regular);
+@font-face {font-family: "ABChanel Corpo Regular"; src: url("//db.onlinewebfonts.com/t/5fd740bac1abfb826fb7e35ae963efc9.eot"); src: url("//db.onlinewebfonts.com/t/5fd740bac1abfb826fb7e35ae963efc9.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/5fd740bac1abfb826fb7e35ae963efc9.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/5fd740bac1abfb826fb7e35ae963efc9.woff") format("woff"), url("//db.onlinewebfonts.com/t/5fd740bac1abfb826fb7e35ae963efc9.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/5fd740bac1abfb826fb7e35ae963efc9.svg#ABChanel Corpo Regular") format("svg"); }
+/* @font-face {font-family: "ABChanel Corpo Regular"; src: */
+
+/* header,footer 공동구역에 대한 스타일
+    컨텐츠박스의 최대넓이(row)body태그에 기본글꼴,크기 등 설정*/
+h2 { font-family: 'ABChanel Corpo Regular',}
+
